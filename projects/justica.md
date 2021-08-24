@@ -4,7 +4,7 @@ title: 'Justiça'
 ---
 **Sobre:** <br>
 **Material:**  Durepoxi<br>
-**Medidas:** 199mm x 199mm x 199mm<br>
+**Medidas:** 260mm x 70mm x 70mm<br>
 **Criado em:** 01/01/2021<br>
 
 {% include image.html image="projects/justica/thumb.jpg" %}
