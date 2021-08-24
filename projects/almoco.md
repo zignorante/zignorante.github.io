@@ -8,6 +8,3 @@ title: 'Almoço'
 **Criado em:** 01/01/2021<br>
 
 {% include image.html image="projects/almoco/thumb.jpg %}
-{% include image.html image="projects/almoco/1629508350674.jpg %}
-{% include image.html image="projects/almoco/1629508350794.jpg %}
-{% include image.html image="projects/almoco/1629508350858.jpg %}
