@@ -2,9 +2,9 @@
 layout: post
 title: 'Almoço'
 ---
-**Sobre:** a<br>
-**Material:**  Durepoxi<br>
-**Medidas:** 260mm x 70mm x 70mm<br>
-**Criado em:** 01/01/2021<br>
+**Sobre:** bla bla bla blu<br>
+**Material:**  Clay 800<br>
+**Medidas:** 199mm x 199mm x 199mm<br>
+**Criado em:** 14/12/2019<br>
 
-{% include image.html image="projects/almoco/thumb.jpg %}
+{% include image.html image="projects/digimon/thumb.jpg" %}
