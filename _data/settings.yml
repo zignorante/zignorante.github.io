@@ -42,12 +42,15 @@ disqus:
 about: >
   # Sobre
 
-  Aqui a gnt pode colocar um texto pequeno.
+  Profissional de escultura tradicional em plastilina, epóxi bicomponente e cera.
+  Atualmente aluno de Artes visuais na Universidade de Brasilia.
 
 contact: >
   # Contato
 
-  Aqui a gnt pode colocar as informações de contato.
+  - (61) 982450490
+  - https://instagram.com/deusexmaico
+  - maiconcostaj14@gmail.com
 
 #-------------------------------
 # Work Section
@@ -58,26 +61,26 @@ projects:
 # - {name: 'Project Three',      folder: 'proj-3',     file: 'projects/proj-3.html'}
 # - {name: 'Project Four',       folder: 'proj-4',     file: 'projects/proj-4.html'}
 # - {name: 'Project Five',       folder: 'proj-5',     file: 'projects/proj-5.html'}
-- {name: 'Justiça',            folder: 'justica',    file: 'projects/justica.html'}
-- {name: 'Almoco',             folder: 'almoco',     file: 'projects/almoco.html'}
-- {name: 'Digimon',            folder: 'digimon',    file: 'projects/digimon.html'}
-- {name: 'Segurança',          folder: 'seguranca',  file: 'projects/seguranca.html'}
-- {name: 'Sucubus',            folder: 'sucubus',    file: 'projects/sucubus.html'}
-- {name: 'A culpa da Vitima',  folder: 'culpa',      file: 'projects/culpa.html'}
-- {name: 'Charizard X MewTwo', folder: 'char',       file: 'projects/char.html'}
-- {name: 'Mula Sem Cabeça',    folder: 'mula',       file: 'projects/mula.html'}
-- {name: 'Humanidade',         folder: 'humanidade', file: 'projects/humanidade.html'}
+- {name: 'Justiça',                          folder: 'justica',    file: 'projects/justica.html'}
+- {name: 'Dança Involuntarioa, Desistencia', folder: 'almoco',     file: 'projects/almoco.html'}
+- {name: 'Digimon',                          folder: 'digimon',    file: 'projects/digimon.html'}
+- {name: 'Segurança',                        folder: 'seguranca',  file: 'projects/seguranca.html'}
+- {name: 'Sucubus',                          folder: 'sucubus',    file: 'projects/sucubus.html'}
+- {name: 'A culpa da Vitima',                folder: 'culpa',      file: 'projects/culpa.html'}
+- {name: 'Charizard X MewTwo',               folder: 'char',       file: 'projects/char.html'}
+- {name: 'Mula Sem Cabeça',                  folder: 'mula',       file: 'projects/mula.html'}
+- {name: 'Humanidade',                       folder: 'humanidade', file: 'projects/humanidade.html'}
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
+- {icon: 'twitter', link: 'instagram.com/deusexmaico'}
 - {icon: 'facebook', link: '#'}
 - {icon: 'instagram', link: '#'}
 - {icon: 'github', link: '#'}
 - {icon: 'linkedin', link: '#'}
 - {icon: 'behance', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'envelope', link: 'mailto:maiconcostaj14@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' / 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
