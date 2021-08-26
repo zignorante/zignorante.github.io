@@ -2,7 +2,6 @@
 layout: post
 title: 'Justiça'
 ---
-**Sobre:** bla bla bla blu<br>
 **Material:**  Durepoxi<br>
 **Medidas:** 26mm x 7mm x 7mm<br>
 **Criado em:** 01/01/2021<br>
