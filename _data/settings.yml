@@ -62,7 +62,7 @@ projects:
 # - {name: 'Project Four',       folder: 'proj-4',     file: 'projects/proj-4.html'}
 # - {name: 'Project Five',       folder: 'proj-5',     file: 'projects/proj-5.html'}
 - {name: 'Justiça',                          folder: 'justica',    file: 'projects/justica.html'}
-- {name: 'Dança Involuntaria, Desistencia', folder: 'almoco',     file: 'projects/almoco.html'}
+- {name: 'Dança Involuntaria, Desistencia',  folder: 'almoco',     file: 'projects/almoco.html'}
 - {name: 'Digimon',                          folder: 'digimon',    file: 'projects/digimon.html'}
 - {name: 'Segurança',                        folder: 'seguranca',  file: 'projects/seguranca.html'}
 - {name: 'Sucubus',                          folder: 'sucubus',    file: 'projects/sucubus.html'}
@@ -75,12 +75,8 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: 'instagram.com/deusexmaico'}
-- {icon: 'facebook', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'behance', link: '#'}
+- {icon: 'whatsapp', link: 'https://wa.me/+5561982450490'}
+- {icon: 'instagram', link: 'https://instagram.com/deusexmaico'}
 - {icon: 'envelope', link: 'mailto:maiconcostaj14@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' / 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
