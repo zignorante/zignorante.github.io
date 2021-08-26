@@ -5,7 +5,7 @@ menu:
 - {name: 'Esculturas', url: ''}
 # - {name: 'Blog', url: 'pages/blog.html'}
 - {name: 'Sobre', url: 'pages/about.html'}
-- {name: 'Contato', url: 'pages/contact.html'}
+# - {name: 'Contato', url: 'pages/contact.html'}
 
 #-------------------------------
 # SEO Section
@@ -44,6 +44,13 @@ about: >
 
   Profissional de escultura tradicional em plastilina, epóxi bicomponente e cera.
   Atualmente aluno de Artes visuais na Universidade de Brasilia.
+
+contact: >
+  # Contato
+
+  - (61) 982450490<br>
+  - https://instagram.com/deusexmaico<br>
+  - maiconcostaj14@gmail.com<br>
 
 #-------------------------------
 # Work Section
